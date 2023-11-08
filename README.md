@@ -13,4 +13,5 @@ Number Key Five: Lava
 Number Key Six: Acid
 
 ![screenshot](/docs/assets/ElementsScreenShot.png)
+
 Screenshot of the simulation.
