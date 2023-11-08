@@ -1,3 +1,16 @@
 # FallingSandPython
-This is a Falling sand simulator game made using pygame. Using the numbers or the keyboard 1-6 you can place different elements using the mouse and left click too place the elements where ever you want.
-Elements will react too each other. When water and lava mix it creates steam/smoke. When lava and wood touch the lava burns straight through. Acid will metal right through metal.
+This is a Falling sand simulator game made using pygame. Using the numbers or the keyboard 1-6 you can place different elements using the mouse and left click too place the elements where ever you want. Elements will react too each other. When water and lava mix it creates steam/smoke. When lava and wood touch the lava burns straight through. Acid will metal right through metal.
+
+
+# 
+KeyBinds
+Left Mouse Button: Place Selected Element
+Number Key One: Sand
+Number Key Two: Water
+Number Key Three: Wood
+Number Key For: Metal
+Number Key Five: Lava
+Number Key Six: Acid
+
+![screenshot](/docs/assets/images/ElementsScreenShot.png)
+Screenshot of the simulation.
