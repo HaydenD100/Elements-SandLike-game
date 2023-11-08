@@ -12,5 +12,5 @@ Number Key For: Metal
 Number Key Five: Lava
 Number Key Six: Acid
 
-![screenshot](/docs/assets/images/ElementsScreenShot.png)
+![screenshot](/docs/assets/ElementsScreenShot.png)
 Screenshot of the simulation.
