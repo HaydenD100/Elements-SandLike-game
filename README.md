@@ -4,12 +4,19 @@ This is a Falling sand simulator game made using pygame. Using the numbers or th
 
 # 
 KeyBinds
-Left Mouse Button: Place Selected Element/n
+
+Left Mouse Button: Place Selected Element
+
 Number Key One: Sand
+
 Number Key Two: Water
+
 Number Key Three: Wood
+
 Number Key For: Metal
+
 Number Key Five: Lava
+
 Number Key Six: Acid
 
 ![screenshot](/docs/assets/ElementsScreenShot.png)
