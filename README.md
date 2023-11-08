@@ -6,7 +6,7 @@ You can Download The Simulation at: https://haydend100.itch.io/elements-sandlike
 
 
  
-KeyBinds
+# KeyBinds
 
 Left Mouse Button: Place Selected Element
 
